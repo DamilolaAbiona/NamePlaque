@@ -1,4 +1,5 @@
 # Name Plaque Application
+[Live Demo](https://damilolaabiona.github.io/NamePlaque/)
 
 This simple application calculates the cost of a name plaque. The customers are charged based on the length of letters.
 
